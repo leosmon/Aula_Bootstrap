@@ -1,0 +1,24 @@
+body{
+    font-family: 20px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar{
+    background-color:  rgb(174, 175, 175);
+    padding-bottom: 50PX;
+}
+#quemSomos{
+    background-color: white;
+}
+.margin{
+    padding-bottom: 30px;
+    padding-top: 25PX;
+    
+}
+#parceiros{
+    background-color:  rgb(174, 175, 175);
+
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+    
+}
